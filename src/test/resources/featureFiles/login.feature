@@ -1,6 +1,6 @@
 Feature: Automating Login page Functionality
 
-  @Regression @SmokeTest1gigi123git
+  @Regression @SmokeTest
   Scenario: Verify login functionality with valid credentials
     Given verify user navigates the URL
       | appURL                    |
